@@ -1,2 +1,4 @@
-# xml-xslt
-Starter project with XSLT, XPath, and XML examples
+# XML / XSLT / XSD / XPath Portfolio
+- Преобразование XML в HTML с помощью XSLT
+- Проверка XML-документов по XSD-схемам
+- XPath-запросы к XML-структурам
