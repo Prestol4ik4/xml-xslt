@@ -1,0 +1,12 @@
+<catalog>
+  <book id="1">
+    <title>Clean Code</title>
+    <author>Robert C. Martin</author>
+    <price>30</price>
+  </book>
+  <book id="2">
+    <title>The Pragmatic Programmer</title>
+    <author>Andrew Hunt</author>
+    <price>35</price>
+  </book>
+</catalog>

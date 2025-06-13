@@ -1,0 +1,3 @@
+/catalog/book[price>30]           → книги дороже 30
+/catalog/book/title               → все названия книг
+/catalog/book[author='Robert C. Martin']/title → книга определённого автора
